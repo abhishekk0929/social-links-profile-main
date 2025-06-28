@@ -8,7 +8,7 @@ Live Demo: [https://abhishekk0929.github.io/social-links-profile-main/](https://
 ## 📸 Screenshot
 
 <!-- Replace with your actual screenshot file path if available -->
-![Social Links Profile Screenshot](./design/socialsocial-@abhi.png)
+![Social Links Profile Screenshot](design/social-@abhi.png)
 
 ---
 
